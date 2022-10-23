@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "ba6d4766d0b266373eb5e07db3daa861",
-"index.html": "03799b7a57231a34d4d31db258975d81",
-"/": "03799b7a57231a34d4d31db258975d81",
+"index.html": "d4d9b108ff8862411d997412aeb486df",
+"/": "d4d9b108ff8862411d997412aeb486df",
 "main.dart.js": "c88b5503e923ae490c2628db6d5c2dd1",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -18,7 +19,11 @@ const RESOURCES = {
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/shaders/ink_sparkle.frag": "28f3670cde6a66264db4b79f488649bd",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/assets/images/trex.png": "e35a557d8b6ec60b84f06ce133952065"
+"assets/assets/images/trex.png": "e35a557d8b6ec60b84f06ce133952065",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
